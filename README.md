@@ -1,4 +1,4 @@
-# Validation
+# Type Validation
 
 This is a small C# library that allows a consumer to define validations for a generic type. 
 
